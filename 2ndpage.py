@@ -17,6 +17,8 @@ if uploaded_file is not None:
         #if st.button('学校名の抽出',use_container_width=True):
             
 
+#アクセス権試し
+
 #ここから下は編集しない
 if __name__ == '__main__':
     main()
